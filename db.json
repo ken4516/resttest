@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"stream_count": 1, "max_streams": 2,
+"stream": [ {
+"asset_id": 123,
+"asset_type": "channel", "native_device_id": "device1234", "device_name": "devicename",
+} ]
 }
